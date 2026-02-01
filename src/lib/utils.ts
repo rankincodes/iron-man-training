@@ -33,7 +33,7 @@ export function getWeekDateRange(weekNumber: number, startDate: string): WeekDat
   const weekStart = new Date(start)
   weekStart.setDate(start.getDate() + (weekNumber - 1) * 7)
   
-  // Week runs Monday to Sunday (6 days after start)
+  // Week runs Sunday to Saturday (6 days after start)
   const weekEnd = new Date(weekStart)
   weekEnd.setDate(weekStart.getDate() + 6)
   

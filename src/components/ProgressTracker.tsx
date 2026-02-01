@@ -49,15 +49,14 @@ export function ProgressTracker({ week, stravaData, stravaError }: ProgressTrack
     return FootprintsIcon
   }
 
-  // Group activities by day of week
-  const dayNames = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+  // Group activities by day of week (Sunday-Saturday)
+  const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
   const activitiesByDay = dayNames.map(dayName => {
-    const dayIndex = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'].indexOf(dayName)
-    const adjustedDayIndex = dayIndex === 6 ? 0 : dayIndex + 1 // Convert to JS Date day format (Sunday = 0)
+    const dayIndex = dayNames.indexOf(dayName) // Matches JS Date.getDay() (Sunday = 0)
     
     const dayActivities = activities.filter(activity => {
       const activityDate = new Date(activity.start_date)
-      return activityDate.getDay() === adjustedDayIndex
+      return activityDate.getDay() === dayIndex
     })
 
     return {
