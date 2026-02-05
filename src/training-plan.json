@@ -159,31 +159,31 @@
     },
     {
       "week": 16,
-      "swim": 1.5,
+      "swim": 0.5,
       "bike": 3.5,
       "run": 4,
-      "total": 9
+      "total": 8
     },
     {
       "week": 17,
-      "swim": 2,
+      "swim": 1.5,
       "bike": 5,
-      "run": 4,
-      "total": 11
+      "run": 3.5,
+      "total": 10
     },
     {
       "week": 18,
-      "swim": 2.5,
-      "bike": 5.5,
+      "swim": 2,
+      "bike": 5,
       "run": 5,
-      "total": 13
+      "total": 12
     },
     {
       "week": 19,
-      "swim": 3,
+      "swim": 2,
       "bike": 6,
-      "run": 6.5,
-      "total": 15.5
+      "run": 6,
+      "total": 14
     },
     {
       "week": 20,
