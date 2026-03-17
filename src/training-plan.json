@@ -201,10 +201,10 @@
     },
     {
       "week": 22,
-      "swim": 1.5,
-      "bike": 4,
+      "swim": 1,
+      "bike": 3.5,
       "run": 2.5,
-      "total": 8
+      "total": 7
     },
     {
       "week": 23,
