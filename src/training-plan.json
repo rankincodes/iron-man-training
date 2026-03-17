@@ -117,276 +117,276 @@
     },
     {
       "week": 10,
-      "swim": 2.5,
-      "bike": 5.5,
+      "swim": 2,
+      "bike": 5,
       "run": 3.5,
-      "total": 11.5
+      "total": 10.5
     },
     {
       "week": 11,
-      "swim": 2.5,
-      "bike": 6,
-      "run": 4,
-      "total": 12.5
-    },
-    {
-      "week": 12,
       "swim": 2,
       "bike": 4.5,
       "run": 3,
       "total": 9.5
     },
     {
+      "week": 12,
+      "swim": 1.5,
+      "bike": 3,
+      "run": 2,
+      "total": 6.5
+    },
+    {
       "week": 13,
-      "swim": 2.5,
-      "bike": 4.5,
-      "run": 5.5,
-      "total": 12.5
+      "swim": 2,
+      "bike": 4,
+      "run": 3,
+      "total": 9
     },
     {
       "week": 14,
-      "swim": 2.5,
-      "bike": 5,
-      "run": 6,
-      "total": 13.5
+      "swim": 2,
+      "bike": 4.5,
+      "run": 3.5,
+      "total": 10
     },
     {
       "week": 15,
-      "swim": 3,
-      "bike": 5.5,
-      "run": 6.5,
-      "total": 15
+      "swim": 2.5,
+      "bike": 5,
+      "run": 4,
+      "total": 11.5
     },
     {
       "week": 16,
       "swim": 1.5,
       "bike": 3.5,
-      "run": 4,
-      "total": 9
+      "run": 3,
+      "total": 8
     },
     {
       "week": 17,
+      "swim": 2.5,
+      "bike": 5,
+      "run": 4,
+      "total": 11.5
+    },
+    {
+      "week": 18,
+      "swim": 2.5,
+      "bike": 5.5,
+      "run": 4.5,
+      "total": 12.5
+    },
+    {
+      "week": 19,
+      "swim": 2.5,
+      "bike": 5.5,
+      "run": 4.5,
+      "total": 12.5
+    },
+    {
+      "week": 20,
+      "swim": 2,
+      "bike": 4,
+      "run": 3,
+      "total": 9
+    },
+    {
+      "week": 21,
+      "swim": 1.5,
+      "bike": 3,
+      "run": 2,
+      "total": 6.5
+    },
+    {
+      "week": 22,
+      "swim": 1.5,
+      "bike": 4,
+      "run": 2.5,
+      "total": 8
+    },
+    {
+      "week": 23,
+      "swim": 2,
+      "bike": 5,
+      "run": 3,
+      "total": 10
+    },
+    {
+      "week": 24,
+      "swim": 2.5,
+      "bike": 5.5,
+      "run": 4,
+      "total": 12
+    },
+    {
+      "week": 25,
+      "swim": 2.5,
+      "bike": 6,
+      "run": 4.5,
+      "total": 13
+    },
+    {
+      "week": 26,
+      "swim": 3,
+      "bike": 6.5,
+      "run": 5,
+      "total": 14.5
+    },
+    {
+      "week": 27,
+      "swim": 3,
+      "bike": 7,
+      "run": 5,
+      "total": 15
+    },
+    {
+      "week": 28,
       "swim": 2,
       "bike": 5,
       "run": 4,
       "total": 11
     },
     {
-      "week": 18,
-      "swim": 2.5,
-      "bike": 5.5,
-      "run": 5,
-      "total": 13
-    },
-    {
-      "week": 19,
+      "week": 29,
       "swim": 3,
-      "bike": 6,
-      "run": 6.5,
+      "bike": 7,
+      "run": 5.5,
       "total": 15.5
     },
     {
-      "week": 20,
-      "swim": 2.5,
-      "bike": 5.5,
-      "run": 5.5,
-      "total": 13.5
-    },
-    {
-      "week": 21,
-      "swim": 3.5,
-      "bike": 7,
-      "run": 8,
-      "total": 18.5
-    },
-    {
-      "week": 22,
-      "swim": 3.5,
-      "bike": 7.5,
-      "run": 8,
-      "total": 19
-    },
-    {
-      "week": 23,
-      "swim": 3.5,
-      "bike": 8,
-      "run": 8.5,
-      "total": 20
-    },
-    {
-      "week": 24,
-      "swim": 3,
-      "bike": 6,
-      "run": 6,
-      "total": 15
-    },
-    {
-      "week": 25,
-      "swim": 3.5,
-      "bike": 8,
-      "run": 8.5,
-      "total": 20
-    },
-    {
-      "week": 26,
-      "swim": 3.5,
-      "bike": 8.5,
-      "run": 9,
-      "total": 21
-    },
-    {
-      "week": 27,
-      "swim": 3.5,
-      "bike": 9,
-      "run": 9,
-      "total": 21.5
-    },
-    {
-      "week": 28,
-      "swim": 3,
-      "bike": 7,
-      "run": 7,
-      "total": 17
-    },
-    {
-      "week": 29,
-      "swim": 4,
-      "bike": 9,
-      "run": 9.5,
-      "total": 22.5
-    },
-    {
       "week": 30,
-      "swim": 4,
-      "bike": 9.5,
-      "run": 10,
-      "total": 23.5
+      "swim": 3,
+      "bike": 7.5,
+      "run": 6,
+      "total": 16.5
     },
     {
       "week": 31,
-      "swim": 4,
-      "bike": 10,
-      "run": 10,
-      "total": 24
-    },
-    {
-      "week": 32,
-      "swim": 3,
-      "bike": 7.5,
-      "run": 7.5,
+      "swim": 3.5,
+      "bike": 8,
+      "run": 6.5,
       "total": 18
     },
     {
+      "week": 32,
+      "swim": 2.5,
+      "bike": 5.5,
+      "run": 4.5,
+      "total": 12.5
+    },
+    {
       "week": 33,
-      "swim": 4,
-      "bike": 10,
-      "run": 10.5,
-      "total": 24.5
+      "swim": 3.5,
+      "bike": 8,
+      "run": 7,
+      "total": 18.5
     },
     {
       "week": 34,
-      "swim": 4,
-      "bike": 10.5,
-      "run": 11,
-      "total": 25.5
-    },
-    {
-      "week": 35,
-      "swim": 4,
-      "bike": 11,
-      "run": 11,
-      "total": 26
-    },
-    {
-      "week": 36,
-      "swim": 3,
-      "bike": 8,
-      "run": 8,
+      "swim": 3.5,
+      "bike": 8.5,
+      "run": 7,
       "total": 19
     },
     {
-      "week": 37,
+      "week": 35,
       "swim": 3.5,
-      "bike": 8,
-      "run": 8,
-      "total": 19.5
+      "bike": 9,
+      "run": 7.5,
+      "total": 20
+    },
+    {
+      "week": 36,
+      "swim": 2.5,
+      "bike": 6,
+      "run": 5,
+      "total": 13.5
+    },
+    {
+      "week": 37,
+      "swim": 3,
+      "bike": 7.5,
+      "run": 6,
+      "total": 16.5
     },
     {
       "week": 38,
-      "swim": 3.5,
-      "bike": 9,
-      "run": 8.5,
-      "total": 21
+      "swim": 3,
+      "bike": 7.5,
+      "run": 6.5,
+      "total": 17
     },
     {
       "week": 39,
       "swim": 3.5,
-      "bike": 10,
-      "run": 9,
-      "total": 22.5
-    },
-    {
-      "week": 40,
-      "swim": 3,
       "bike": 8,
-      "run": 7,
+      "run": 6.5,
       "total": 18
     },
     {
+      "week": 40,
+      "swim": 2.5,
+      "bike": 5.5,
+      "run": 4.5,
+      "total": 12.5
+    },
+    {
       "week": 41,
-      "swim": 4,
-      "bike": 10,
-      "run": 9.5,
-      "total": 23.5
-    },
-    {
-      "week": 42,
-      "swim": 4,
-      "bike": 11,
-      "run": 10,
-      "total": 25
-    },
-    {
-      "week": 43,
-      "swim": 4,
-      "bike": 11,
-      "run": 10.5,
-      "total": 25.5
-    },
-    {
-      "week": 44,
-      "swim": 3.5,
-      "bike": 9,
-      "run": 9,
-      "total": 21.5
-    },
-    {
-      "week": 45,
-      "swim": 4,
-      "bike": 11,
-      "run": 10.5,
-      "total": 25.5
-    },
-    {
-      "week": 46,
       "swim": 3,
       "bike": 7.5,
       "run": 6.5,
       "total": 17
     },
     {
-      "week": 47,
+      "week": 42,
+      "swim": 3.5,
+      "bike": 8,
+      "run": 7,
+      "total": 18.5
+    },
+    {
+      "week": 43,
+      "swim": 3.5,
+      "bike": 8,
+      "run": 7,
+      "total": 18.5
+    },
+    {
+      "week": 44,
       "swim": 2.5,
       "bike": 6,
-      "run": 5.5,
-      "total": 14
+      "run": 5,
+      "total": 13.5
+    },
+    {
+      "week": 45,
+      "swim": 3,
+      "bike": 7.5,
+      "run": 6.5,
+      "total": 17
+    },
+    {
+      "week": 46,
+      "swim": 2.5,
+      "bike": 5.5,
+      "run": 4.5,
+      "total": 12.5
+    },
+    {
+      "week": 47,
+      "swim": 2,
+      "bike": 4.5,
+      "run": 3.5,
+      "total": 10
     },
     {
       "week": 48,
-      "swim": 2,
-      "bike": 4,
-      "run": 3.5,
-      "total": 9.5
+      "swim": 1.5,
+      "bike": 3,
+      "run": 2,
+      "total": 6.5
     },
     {
       "week": 49,
